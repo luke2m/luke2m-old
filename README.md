@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luke</h1>
-- 🌱 I’m currently learning **Python, C++**
+- 🌱 I’m currently learning __Python, C++__
 
 - 👨‍💻 My website [lukemetoki.js.org](lukemetoki.js.org)
 
