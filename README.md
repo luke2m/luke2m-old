@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luke</h1>
-- 🌱 I’m currently learning __Python, C++__
+-I have mostly switched to [Gitlab](https://gitlab.com/luke2m)
+- 🌱 I’m currently learning Python, C++
 
-- 👨‍💻 My website [lukemetoki.js.org](lukemetoki.js.org)
+- 👨‍💻 My website: [lukemetoki.js.org](lukemetoki.js.org)
 
 - 💬 Ask me about **Science Olympiad**
 
