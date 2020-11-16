@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luke</h1>
--I have mostly switched to [Gitlab](gitlab.com/luke2m)
+-I have mostly switched to GitLab
 - 🌱 I’m currently learning Python, C++
 
 - 👨‍💻 My website: [lukemetoki.js.org](lukemetoki.js.org)
