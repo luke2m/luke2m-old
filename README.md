@@ -3,7 +3,7 @@ I have mostly switched to GitLab
 
 - 🌱 I’m currently learning Python, C++
 
-- 👨‍💻 My website: [lukesempire.com](https://lukesempire.com)
+- 👨‍💻 My website: [lukesempire.com](https://lukesempire.com) (Source code on GitLab)
 
 - 💬 Ask me about **Science Olympiad**
 
